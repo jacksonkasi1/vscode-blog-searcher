@@ -1,5 +1,7 @@
 # Blog Search
 
+![Blog Search Logo](./logo.png)
+
 This extension lets you search for any of Web Dev Simplified's blog articles from within VSCode.
 
 ## Features
